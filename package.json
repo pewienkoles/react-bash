@@ -74,5 +74,8 @@
     "es/",
     "lib/"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react-bash": "^1.6.0"
+  }
 }
